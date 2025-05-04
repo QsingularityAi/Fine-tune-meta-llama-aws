@@ -26,7 +26,7 @@ This project focuses on fine-tuning and evaluating the Llama 3 1.8B model on Ama
 1.  **Clone the repository:**
 
     ```bash
-    git clone [repository URL]
+    git clone https://github.com/QsingularityAi/Fine-tune-meta-llama-aws.git
     cd fine-tune-meta-llama-aws
     ```
 
